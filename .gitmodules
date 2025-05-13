@@ -1,0 +1,6 @@
+[submodule "Visão Computacional"]
+	path = Visão Computacional
+	url = https://github.com/MiguelGrigorio/visao-computacional.git
+[submodule "Espaço Inteligente"]
+	path = Espaço Inteligente
+	url = https://github.com/MiguelGrigorio/aula-is.git
